@@ -105,6 +105,9 @@ extra_css:
   - assets/stylesheets/link-icons.css
   - assets/stylesheets/styling.css
 
+plugins:
+  - redirects
+
 markdown_extensions:
   - attr_list
   - toc:
