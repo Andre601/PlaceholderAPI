@@ -9,6 +9,7 @@ repo_url: https://github.com/PlaceholderAPI/PlaceholderAPI
 
 plugins:
   - redirect
+  - macros
 
 theme:
   name: material
